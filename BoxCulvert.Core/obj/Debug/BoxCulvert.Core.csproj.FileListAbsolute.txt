@@ -1,0 +1,9 @@
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\bin\Debug\BoxCulvert.Core.dll
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\bin\Debug\BoxCulvert.Core.pdb
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\bin\Debug\BoxCulvert.Model.dll
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\bin\Debug\BoxCulvert.Model.pdb
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\obj\Debug\BoxCulvert.Core.csproj.AssemblyReference.cache
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\obj\Debug\BoxCulvert.Core.csproj.CoreCompileInputs.cache
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\obj\Debug\BoxCulvert.Core.csproj.CopyComplete
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\obj\Debug\BoxCulvert.Core.dll
+D:\BIBLIOTECA PERSONAL\Programación\C shar\BoxCulvert\BoxCulvert.Core\obj\Debug\BoxCulvert.Core.pdb
